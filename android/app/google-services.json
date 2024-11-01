@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750714659660",
+    "project_id": "ecommerce-app-a6c0c",
+    "storage_bucket": "ecommerce-app-a6c0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750714659660:android:570bd9f6a081445fa725e9",
+        "android_client_info": {
+          "package_name": "com.example.summer1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAEBHo2R3BktEbczcXN0ENQQ_Jk58GLA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
